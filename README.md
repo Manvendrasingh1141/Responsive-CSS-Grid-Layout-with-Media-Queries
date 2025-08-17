@@ -34,3 +34,27 @@
 ## 📷 Layout Preview  
 
 ### 🖥️ Desktop (≥1440px)
+box-1 | box-2 box-2 | box-3
+box-1 | box-4 | box-5 box-5
+
+
+### 📱 Tablet (≤1024px)
+box-1 box-1 | box-2
+box-1 box-1 | box-3
+box-4 | box-5 box-5
+
+
+### 📱 Mobile (≤600px)
+box-1 | box-2
+box-3 | box-2
+box-3 | box-4
+box-5 | box-4
+
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/responsive-grid-layout.git
+
